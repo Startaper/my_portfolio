@@ -1,0 +1,61 @@
+{
+  "Header": {
+    "title": "Hi! my name is Azamat.",
+    "paragraph": "I am a programmer with little experience in web development. I specialize in creating effective and innovative web applications that combine functionality and creative design."
+  },
+  "About": {
+    "paragraph": "I am a 3rd year student at the Financial University under the President of the Russian Federation. My passion for data analysis and software development allows me to strive to reach new heights in the field of applied computer science. I strive to constantly improve my skills and constantly study new technologies and trends in the field of development. My programming experience allows me to create high-quality solutions using modern programming languages. In addition, I have web design skills, which allows me to create attractive and intuitive user interfaces.",
+    "Why": [
+      "Java",
+      "Python",
+      "Kotlin",
+      "HTML/CSS/JS",
+      "SQL - PostgreSql, MySql, MongoDB etc."
+    ],
+    "Why2": [
+      "Spring Boot Application",
+      "Docker",
+      "Liquibase", 
+      "Version control system - GitLab, Github"
+    ]
+  },
+  "Projects": [
+    {
+      "title": "Кроссплатформенное приложение для работы с резюме соискателей (Серверная часть)",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg",
+      "link": "https://github.com/Startaper/course_paper_backend"
+    },
+    {
+      "title": "Кроссплатформенное приложение для работы с резюме соискателей (Клиентская часть)",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg",
+      "link": "https://github.com/Startaper/course_paper_client"
+    },
+    {
+      "title": "Разработка веб-сайта 'My Portfolio'",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg",
+      "link": ""
+    }
+  ],
+  "Education": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "GBOU School No.814 (academic buildings 1 and 5)",
+      "href": "https://sch814z.mskobr.ru/"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Financial University under the Government of the Russian Federation",
+      "href": "https://fa.ru/"
+    }
+  ],
+  "Contact": {
+    "phone": "+7(977)542-17-10",
+    "email": "tazik09_00@mail.ru",
+    "telegram": "https://t.me/Azamat_147",
+    "whatsApp": "https://wa.me/+79775421710",
+    "vk": "https://vk.com/a.oshroev07"
+  }
+}
